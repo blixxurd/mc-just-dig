@@ -1,0 +1,12 @@
+name: PolyCore
+version: '${project.version}'
+main: poly.core.polycore.PolyCore
+api-version: 1.19
+authors: [ FidgetSoftworks ]
+description: Poly Core Plugin
+website: fidget.io
+commands:
+  customitems:
+    description: Gives the player all custom items for testing.
+  shop:
+    description: Opens the cursed emerald shop.
